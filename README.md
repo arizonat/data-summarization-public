@@ -1,5 +1,5 @@
 # Data summarization approaches and implementations
-Library of clustering/core-set selection/data summarization algorithms
+Library of clustering/core-set selection/data summarization algorithms implemented with pytorch
 
 Batch algorithms:
 - K-centers Greedy
