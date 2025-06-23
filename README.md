@@ -1,5 +1,6 @@
 # Data summarization approaches and implementations
 Library of clustering/core-set selection/data summarization algorithms implemented with pytorch
+Developed for use in vision-based applications alongside DINO feature extractors
 
 Batch algorithms:
 - K-centers Greedy
@@ -7,7 +8,8 @@ Batch algorithms:
 
 Streaming algorithms:
 - K-centers Streaming (Broken during refactor, need to fix)
-
+- DINO detector
+  
 Example usage:
 
 ```
